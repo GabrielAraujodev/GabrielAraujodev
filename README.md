@@ -1,20 +1,63 @@
-<h1 align="center">Olá 👋, sou Gabriel Augusto</h1>
-<h3 align="center"> Sou um desenvolvedor Full Stack que consome constantemente coisas criativas.</h3>
+<p align="left">Olá 👋, sou Gabriel Augusto<br> Full stack Student<br>🎓 computer Science<br>💬 Ask me about     Java , Sql, Angular,Ionic ,JavaScript, HTML, CSS, SQL, Node.JS<br>👨‍💻 More at links-k.vercel.app</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username =gabrielaraujodev" alt="gabrielaraujodev" /></a> </p>
+###
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/GabrielAraujodev](https://github.com/GabrielAraujodev)- 📫 Como entrar em contato comigo **Gabrielalves6p@gmail.com**<h3 align="left">Conecte-se comigo:</h3><h3 align="left">Idiomas e ferramentas:</h3> ;</p><a href="https://instagram.com/gabrielalves_16" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielalves_16" altura="30" largura="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-augusto- alves-de-araujo-98b89b23a/" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-augusto-alves-de-araujo-98b89b23a/" altura="30" largura="40" /></a><a href="https://dev.to/gabriel-augusto02" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gabriel-augusto02" altura="30" largura="40" /></a><p align="left"><!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->### Postagens de blogs- 📄 Conheça minhas experiências [https://docs.google.com/document/d/15TBf1vSzH1GZOsIhXBiE_MSEGmTEjU25Yi3-JCWfJwI/edit](https://docs.google.com/document/d/15TBf1vSzH1GZOsIhXBiE_MSEGmTEjU25Yi3 -JCWfJwI/edit)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
-- 💬 Pergunte-me sobre **java, Angular, ionic, JavaScript,Sql**
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAraujodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAraujodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/GabrielAraujodev/count.svg?"  />
+</div>
 
-<p alinhar="esquerda"> <a href="https://developer.android.com" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" largura="40" altura="40"/> </a> <a href="https://angular.io" alvo="_em branco" rel="noreferrer" <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" largura="40" altura="40"/> </a> <a href="https://cordova.apache.org/" alvo="_em branco" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" largura="40" altura="40"/> </a> <a href="https://getbootstrap.com" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="inicialização" largura="40" altura="40"/> </a> <a href="https://www.w3schools.com/css/" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" largura="40" altura="40"/> </a> <a href="https://www.figma.com/" alvo="_em branco" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" largura="40" altura="40"/> </a> <a href="https://firebase.google.com/" alvo="_em branco" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" largura="40" altura="40"/> </a> <a href="https://git-scm.com/" alvo="_em branco" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" largura="40" altura="40"/> </a> <a href="https://www.w3.org/html/" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </a> <a href="https://ionicframework.com" alvo="_em branco" rel="noreferrer" <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="iônico" largura="40" altura="40"/> </a> <a href="https://www.java.com" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" largura="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" alvo="_em branco" rel="noreferrer" <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" largura="40" altura="40"/> </a> <a href="https://www.mysql.com/" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura="40" altura="40"/> </a> <a href="https://nodejs.org" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" largura="40" altura="40"/> </a> <a href="https://www.oracle.com/" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oráculo" largura="40" altura="40"/> </a> <a href="https://www.photoshop.com/en" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" largura="40" altura="40"/> </a> <a href="https://reactjs.org/" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reagir" largura="40" altura="40"/> </a> <a href="https://reactnative.dev/" alvo="_em branco" rel="noreferrer" <img src="https://reactnative.dev/img/header_logo.svg" alt="reagente" largura="40" altura="40"/> </a> <a href="https://sass-lang.com" alvo="_em branco" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="atrevimento" largura="40" altura="40"/> </a> <a href="https://spring.io/" alvo="_em branco" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="primavera" largura="40" altura="40"/> </a> <a href="https://tailwindcss.com/" alvo="_em branco" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="vento favorável" largura="40" altura="40"/> </a> </p>
+###
 
-<p><img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaraujodev&show_icons=true&locale=en&layout=compact" alt="gabrielaraujodev" /></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-augusto-alves-de-araujo-98b89b23a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/gabitos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+  <a href="https://www.instagram.com/gabrielalves_16/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="Gabrielalves6p@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=gabrielaraujodev&show_icons=true&locale=en" alt="gabrielaraujodev" /></p>
+###
 
-<p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielaraujodev&" alt="gabrielaraujodev" //></p>
+<img src="https://raw.githubusercontent.com/GabrielAraujodev/GabrielAraujodev/output/snake.svg" alt="Snake animation" />
 
+###
